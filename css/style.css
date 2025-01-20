@@ -315,12 +315,12 @@ button {
   text-transform: capitalize;
   text-align: center;
   margin: 0 auto;
-
-  padding-bottom: 72px;
+  margin-bottom: 72px;
 }
 
 .portfolio-info {
   padding: 32px 16px;
+  border-top: none;
   border: 1px solid #e7e9fc;
 }
 
